@@ -1,0 +1,14 @@
+C:\dev\Udemy\CSharp\CurrencyConverter\CurrencyConverter\bin\Debug\net6.0\CurrencyConverter.exe
+C:\dev\Udemy\CSharp\CurrencyConverter\CurrencyConverter\bin\Debug\net6.0\CurrencyConverter.deps.json
+C:\dev\Udemy\CSharp\CurrencyConverter\CurrencyConverter\bin\Debug\net6.0\CurrencyConverter.runtimeconfig.json
+C:\dev\Udemy\CSharp\CurrencyConverter\CurrencyConverter\bin\Debug\net6.0\CurrencyConverter.dll
+C:\dev\Udemy\CSharp\CurrencyConverter\CurrencyConverter\bin\Debug\net6.0\CurrencyConverter.pdb
+C:\dev\Udemy\CSharp\CurrencyConverter\CurrencyConverter\obj\Debug\net6.0\CurrencyConverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Udemy\CSharp\CurrencyConverter\CurrencyConverter\obj\Debug\net6.0\CurrencyConverter.AssemblyInfoInputs.cache
+C:\dev\Udemy\CSharp\CurrencyConverter\CurrencyConverter\obj\Debug\net6.0\CurrencyConverter.AssemblyInfo.cs
+C:\dev\Udemy\CSharp\CurrencyConverter\CurrencyConverter\obj\Debug\net6.0\CurrencyConverter.csproj.CoreCompileInputs.cache
+C:\dev\Udemy\CSharp\CurrencyConverter\CurrencyConverter\obj\Debug\net6.0\CurrencyConverter.dll
+C:\dev\Udemy\CSharp\CurrencyConverter\CurrencyConverter\obj\Debug\net6.0\refint\CurrencyConverter.dll
+C:\dev\Udemy\CSharp\CurrencyConverter\CurrencyConverter\obj\Debug\net6.0\CurrencyConverter.pdb
+C:\dev\Udemy\CSharp\CurrencyConverter\CurrencyConverter\obj\Debug\net6.0\CurrencyConverter.genruntimeconfig.cache
+C:\dev\Udemy\CSharp\CurrencyConverter\CurrencyConverter\obj\Debug\net6.0\ref\CurrencyConverter.dll
